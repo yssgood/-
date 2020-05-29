@@ -13,4 +13,4 @@
 3. Visual Studio를 활용한 효율적인 디버깅 스킬 
 
 ### 플레이 영상 링크: 
-https://www.youtube.com/watch?v=MrzTZOpLjWw
+https://youtu.be/P3L7uK_xFy8
